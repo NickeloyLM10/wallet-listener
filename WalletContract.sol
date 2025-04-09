@@ -8,7 +8,6 @@ contract WalletContract {
     function deposit() public payable {
         require(msg.value > 0, "Invalid Amount");
 
-        msg.sender.call{value: msg.value};
         emit Deposit(msg.sender, msg.value);
     }
 
