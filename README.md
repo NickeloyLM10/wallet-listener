@@ -9,7 +9,6 @@ A MetaMask-compatible wallet listener service that listens to on-chain deposit a
 - **Smart Contract (Sepolia)
 - **MongoDB:** Hosted on MongoDB Atlas
 - **Event Listener Backend:** Node.js + Ethers.js
-- **Frontend (optional):** N/A (can test via MetaMask or Remix)
 
 ---
 
