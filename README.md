@@ -1,4 +1,4 @@
-# 🪙 Web3 Wallet Listener – Blockchain Event Sync Challenge
+# Web3 Wallet Listener – Blockchain Event Sync Challenge
 
 A MetaMask-compatible wallet listener service that listens to on-chain deposit and withdrawal events on the Ethereum Sepolia testnet and updates a MongoDB database ledger in real-time.
 
